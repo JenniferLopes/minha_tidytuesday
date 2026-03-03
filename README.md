@@ -24,4 +24,4 @@ Cada pasta corresponde a uma semana do desafio e contém o script R utilizado pa
 
 Acesse já o [**`repositório`**](https://github.com/rfordatascience/tidytuesday/tree/main/data/2026).
 
-![](2026/2026-03-03-semana9/2026-03-03-semana9.png){width="543"}
+![](2026/2026-03-03-semana9/2026-03-03-semana9.png)
