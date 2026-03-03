@@ -10,10 +10,18 @@ Cada pasta corresponde a uma semana do desafio e contém o script R utilizado pa
 
 ## Tecnologias
 
-- **Linguagem:** R
-- **Pacotes principais:** `ggplot2`, `dplyr`, `tidyr`, `scales`, `patchwork`
+-   **Linguagem:** R
+-   **Pacotes principais:** `ggplot2`, `dplyr`, `tidyr`, `scales`, `patchwork`
 
 ## Acompanhe
 
-- 🐦 [#TidyTuesday](https://twitter.com/hashtag/TidyTuesday)
-- 📦 [Repositório oficial do TidyTuesday](https://github.com/rfordatascience/tidytuesday)
+-   🐦 [#TidyTuesday](https://twitter.com/hashtag/TidyTuesday)
+-   📦 [Repositório oficial do TidyTuesday](https://github.com/rfordatascience/tidytuesday)
+
+## Semanas
+
+### **9° Semana - 2026-03-03 - Golem Grad Tortoise Data**
+
+Acesse já o [**`repositório`**](https://github.com/rfordatascience/tidytuesday/tree/main/data/2026).
+
+![](2026/2026-03-03-semana9/2026-03-03-semana9.png){width="543"}
