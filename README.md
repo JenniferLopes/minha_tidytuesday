@@ -25,3 +25,9 @@ Cada pasta corresponde a uma semana do desafio e contém o script R utilizado pa
 Acesse já o [**`repositório`**](https://github.com/rfordatascience/tidytuesday/tree/main/data/2026).
 
 ![](2026/2026-03-03-semana9/2026-03-03-semana9.png)
+
+### **10° Semana - 2026-03-10 - How likely is 'likely'?**
+
+Acesse já o [**`repositório`**](https://github.com/rfordatascience/tidytuesday/tree/main/data/2026).
+
+![](2026/2026-03-12-semana10/2026-03-12-semana10.png)
