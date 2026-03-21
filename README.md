@@ -31,3 +31,9 @@ Acesse já o [**`repositório`**](https://github.com/rfordatascience/tidytuesday
 Acesse já o [**`repositório`**](https://github.com/rfordatascience/tidytuesday/tree/main/data/2026).
 
 ![](2026/2026-03-12-semana10/2026-03-12-semana10.png)
+
+### **11° Semana - 2026-03-17 -** Salmonid Mortality Data
+
+Acesse já o [**`repositório`**](https://github.com/rfordatascience/tidytuesday/blob/main/data/2026/2026-03-17/readme.md).
+
+![](2026/2026-03-17-semana11/tidytuesday_2026_w11_salmonidos.png)
